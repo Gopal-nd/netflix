@@ -25,7 +25,7 @@ const Login = () => {
 </Button>
 <Button variant={'outline'} size='icon'>
 
-<Image className="w-6 h-6" src="https://shorturl.at/q71YD" alt='google-logo'/>
+<img className="w-6 h-6" src="https://shorturl.at/q71YD" alt="google-logo" />
 
 </Button>
 

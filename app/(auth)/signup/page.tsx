@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import React from 'react'
 import { Input } from "@/components/ui/input"
 import { Button } from '@/components/ui/button'
@@ -25,7 +26,7 @@ const SignUp = () => {
 </Button>
 <Button variant={'outline'} size='icon'>
 
-<Image  className="w-6 h-6" src={"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/500px-Google_2015_logo.svg.png"} alt='google-logo'/>
+<img className="w-6 h-6" src="https://shorturl.at/q71YD" alt="google-logo" />
 
 </Button>
 
