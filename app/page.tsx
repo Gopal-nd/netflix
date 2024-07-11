@@ -1,9 +1,10 @@
-import React from 'react'
+import { Button } from "@/components/ui/button"
 
-const Home = () => {
+export default function Home() {
   return (
-    <div>Home</div>
+    <div>
+      <Button>Click me</Button>
+      <h1>Test to check text visbility</h1>
+    </div>
   )
 }
-
-export default Home
